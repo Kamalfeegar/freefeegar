@@ -1,6 +1,6 @@
 {
-    "name": "fcc-learn-npm-package-json",
-    "author": "key",
+    "name": "codespace-learn-npm-package-json",
+    "author": "Kemal",
     "dependencies": {
       "express": "^4.14.0"
     },
